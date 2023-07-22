@@ -1,0 +1,6 @@
+kubeadm init \
+    --apiserver-advertise-address   <string>    #       ip
+    --control-plane-endpoint        <string>    #       dns
+    --image-repository              <string>    #       registry-dns
+    --node-name                     <string>    #       name-of-node
+    --pod-network-cidr              <string     #       subnet
