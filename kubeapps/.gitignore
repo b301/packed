@@ -1,0 +1,10 @@
+bin
+certificate-authority
+harbor
+metallb
+nginx
+shob
+postgresql-ha
+delete-crds.ps1
+contour
+gitea
