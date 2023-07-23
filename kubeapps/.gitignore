@@ -8,3 +8,5 @@ postgresql-ha
 delete-crds.ps1
 contour
 gitea
+
+**/exported-images
